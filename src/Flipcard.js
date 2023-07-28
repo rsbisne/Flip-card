@@ -4,7 +4,7 @@ const Flipcard = () => {
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <img src="/img.png" alt="Front" />
+          <img src="/Demonslayer.png" alt="Front" />
         </div>
         <div class="flip-card-back">
           <div class="card-content">
